@@ -3,7 +3,7 @@
   -- Do NOT remove the leading `#` character.
   -->
 
-# Your wiki name
+# University Planner
 
 
 <!--
@@ -20,6 +20,7 @@
   -->
 
 [About](pages/about.md)
+    [Introduzione](pages/introduzione.md)
 [Download](pages/download.md)
 
 <!-- A more complex navigation example: ----------------------------------------
